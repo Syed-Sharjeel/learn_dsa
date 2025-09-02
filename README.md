@@ -28,3 +28,7 @@ The repo is intended to help fellow students understand **basic algorithms, sort
 - Python
 
 ---
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedsharjeel321)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:syedsharjeel321@gmail.com)  
+
